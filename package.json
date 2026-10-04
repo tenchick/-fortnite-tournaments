@@ -1,0 +1,9 @@
+{
+  "name": "fortnite-arena",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fortnite Arena — live tournament schedule MVP",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
